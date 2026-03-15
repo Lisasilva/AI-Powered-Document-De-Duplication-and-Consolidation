@@ -42,7 +42,7 @@ The folder path should be specified in the .env file under INPUT_FOLDER_PATH.
 
 To run the application, execute the following command in your terminal:
 ```
-python Team56.py
+python Code.py
 ```
 After running the program, you can see the consolidated output files in the output folder you specified in the .env file.
 
